@@ -6,6 +6,7 @@ A curated list of awesome RSS feeds I subscribed to.
 
 - [JavaScript Weekly](http://javascriptweekly.com/rss)
 - [Made with React](https://madewithreact.com/rss/)
+- [Overreacted](https://overreacted.io/rss.xml)
 - [React Native Blog](https://facebook.github.io/react-native/blog/feed)
 - [React Status](https://react.statuscode.com/rss/1ble8b5f)
 - [React](https://facebook.github.io/react/feed.xml)
