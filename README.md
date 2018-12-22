@@ -4,6 +4,7 @@ A curated list of awesome RSS feeds I subscribed to.
 
 ## Frontend Development
 
+- [Flavio Copes](https://flaviocopes.com/index.xml)
 - [JavaScript Weekly](http://javascriptweekly.com/rss)
 - [Made with React](https://madewithreact.com/rss/)
 - [Overreacted](https://overreacted.io/rss.xml)
@@ -16,6 +17,7 @@ A curated list of awesome RSS feeds I subscribed to.
 ## Software Engineering
 
 - [Airbnb Engineering & Data Science - Medium](https://medium.com/feed/airbnb-engineering)
+- [Complete Think](https://rickhw.github.io/atom.xml)
 - [Hacker Noon — Medium](https://hackernoon.com/feed)
 - [Joel on Software](http://www.joelonsoftware.com/rss.xml)
 - [Newsletter feed for Kent C. Dodds News](https://buttondown.email/kentcdodds/rss)
@@ -41,4 +43,4 @@ A curated list of awesome RSS feeds I subscribed to.
 
 ## Management
 
-- [經理人Manager Today｜管理、經理人、企業管理、品牌](http://www.managertoday.com.tw/rss/)
+- [經理人 Manager Today ｜管理、經理人、企業管理、品牌](http://www.managertoday.com.tw/rss/)
