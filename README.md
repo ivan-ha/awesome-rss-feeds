@@ -26,7 +26,6 @@ A curated list of awesome RSS feeds I subscribed to.
 - [Stories by Pinterest Engineering on Medium](https://medium.com/feed/@Pinterest_Engineering)
 - [The GitHub Blog](https://blog.github.com/all.atom)
 - [The Zapier Engineering Blog](https://zapier.com/engineering/feeds/latest/)
-- [博客 - 伯乐在线](http://blog.jobbole.com/feed/)
 - [酷 壳 - CoolShell.cn](http://coolshell.cn/feed)
 
 ## Tech, Gadgets
