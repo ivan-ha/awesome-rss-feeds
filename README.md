@@ -34,6 +34,7 @@ A curated list of awesome RSS feeds I subscribed to.
 - [Engadget 中文版 RSS Feed](http://chinese.engadget.com/rss.xml)
 - [Inside 硬塞的網路趨勢觀察](https://feeds.feedburner.com/inside-blog-taiwan)
 - [MacRumors: Mac News and Rumors - Front Page](http://www.macrumors.com/macrumors.xml)
+- [Joho no Todai (English)](https://joho-todai.com/en/rss/)
 - [TechCrunch](http://feeds.feedburner.com/TechCrunch)
 - [TechOrange](http://feeds.feedburner.com/techorange)
 - [The Zapier Blog](https://zapier.com/blog/feeds/latest/)
